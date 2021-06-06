@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MvcPokemonApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data">Data unavailable for this game version</string>
+</resources>
